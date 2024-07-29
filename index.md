@@ -1,4 +1,4 @@
-## Welcome to InnoVision Toys and Games
+## Welcome to InnoVision Games
 
 ### Support or Contact
 
