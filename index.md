@@ -1,4 +1,15 @@
-## Welcome to InnoVision Games
+title: ''
+
+## InnoVision Games
+
+Hey everybody, it's InnoVision!
+
+![InnoVision Logo](/docs/assets/img/innovision_games_logo.jpg)
+
+Welcome to the future home of something AWESOME!
+
+Find us on [YouTube](https://www.youtube.com/@innovisiongames?sub_confirmation=1), subscribe, it's free!
+
 
 ### Support or Contact
 
