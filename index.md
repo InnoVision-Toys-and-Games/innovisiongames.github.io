@@ -9,6 +9,7 @@ Find us on [YouTube](https://www.youtube.com/@innovisiongames?sub_confirmation=1
 
 <img src="/assets/img/innovision_games_logo.jpg" alt="InnoVision Logo" width="200"/>
 
+<br />
 
 ### Support or Contact
 ```markdown
