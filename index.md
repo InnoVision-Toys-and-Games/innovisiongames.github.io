@@ -1,6 +1,3 @@
-name: InnoVision Games
-title: null
-
 ## InnoVision Games
 
 Hey everybody, it's InnoVision!
