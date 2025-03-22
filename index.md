@@ -4,7 +4,7 @@ title: ''
 
 Hey everybody, it's InnoVision!
 
-![InnoVision Logo](/docs/assets/img/innovision_games_logo.jpg)
+![InnoVision Logo](/docs/assets/img/innovision_games_logo_small.jpg)
 
 Welcome to the future home of something AWESOME!
 
